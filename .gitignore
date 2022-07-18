@@ -6,3 +6,5 @@ __pycache__
 capture.mp4
 datasets/*
 yolo/
+.venv
+test
