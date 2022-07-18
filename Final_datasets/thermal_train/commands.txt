@@ -1,0 +1,3 @@
+ls | awk -F. '{print $1}' | sort | uniq -u  > unique.txt
+cat unique.txt | xargs -I '{}' mv '{}' extra/
+

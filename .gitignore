@@ -1,0 +1,8 @@
+.cache
+.idea
+*.jpg
+__pycache__
+*.swp
+capture.mp4
+datasets/*
+yolo/
